@@ -1,3 +1,4 @@
+//php code to find a largest number among three numbers without html
 <?php
     
     $number1 = (int)readline('Enter a number: ');
